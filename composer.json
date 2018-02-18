@@ -1,5 +1,5 @@
 {
-  "name": "villca/Laravel-Web-Crawler",
+  "name": "villca/laravel-web-crawler",
   "description": "laravel web crawler using simple_html_dom.php.",
   "license" : "MIT",
   "authors" : [
