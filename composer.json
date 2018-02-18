@@ -1,0 +1,20 @@
+{
+  "name": "villca/Laravel-Web-Crawler",
+  "description": "laravel web crawler using simple_html_dom.php.",
+  "license" : "MIT",
+  "authors" : [
+    {
+      "name": "Jesus Villca",
+      "email": "24villca@gmail.com",
+      "homepage": "https://24villca.blogspot.com"
+    }
+  ],
+  "require": {
+    "php": "^5.3.3 || ^7.0"
+  },
+  "autoload": {
+    "psr-0": {
+      "laravel_web_crawler": "src/"
+    }
+  }
+}
