@@ -1,5 +1,5 @@
 {
-  "name": "villca/laravel-web-crawler",
+  "name": "villca/Laravel-Web-Crawler",
   "description": "laravel web crawler using simple_html_dom.php.",
   "license" : "MIT",
   "authors" : [
@@ -14,7 +14,7 @@
   },
   "autoload": {
     "psr-0": {
-      "laravel_web_crawler": "src/"
+      "LaravelWebCrawler": "src/"
     }
   }
 }
